@@ -1,4 +1,4 @@
-# countries_data_analysis
+# Eastern Europe Data Analysis (Python)
 
 Teams are tasked with conducting an analysis utilizing data from the World Bank. Each student group shall receive a dataset on countries in one region of the world at random and are expected to:
 
